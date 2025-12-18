@@ -1,0 +1,1 @@
+# Characteristics-of-temperature-sensor-using-thermocouple
